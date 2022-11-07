@@ -1,6 +1,6 @@
 # NPRA-Games
 
-## UPDATE: November 7th, 2022 - development is currently on 'prototypes' branch. Any issues or pull requests are to be based on that branch. *-CB*
+## UPDATE November 7th, 2022: Development is currently on 'prototypes' branch. Any issues or pull requests are to be from that branch. *-CB*
 -------------------
 
 **NPRA Games** is my solo game project. This is a public repo for tracking and sharing Game Jam code and other free and open source indie game ventures.
