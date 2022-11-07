@@ -12,5 +12,9 @@ The Working Title for this project is: ***BAD TO THE BONE***
 ## Dev-Log
 
 * **11-06-2022:**
-+Due to work schedule and other pending items, development started 5 days late. Spent the majority of it, compiling research and reference items. Haven't decided fully on a theme yet, don't want to make that choice until I'm able to put together a few prototypes.
-	-Will reveal the theme soon! ***-CB***
+> Due to time constraints, development began today, *5 days late*.
+> Spent the majority of the time setting up repos and 
+> standardizing software across my 2 devices.
+>> Godot Engine was considered to create crossplay between my Windows and Linux laptops.
+> The final theme for game has not been decided.
+>> Will work on a few prototypes first! ***-CB***
