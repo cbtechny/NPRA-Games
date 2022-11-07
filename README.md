@@ -4,7 +4,7 @@
 
 **NPRA Games** is my solo game project. This is a public repo for tracking and sharing Game Jam code and other free and open source indie game ventures.
 
-For more information, please visit:<https://ninjapiraterobotalien.com>
+For more information, please visit: <https://ninjapiraterobotalien.com>
 
 -------------------
 
