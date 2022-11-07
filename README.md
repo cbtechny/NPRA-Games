@@ -8,7 +8,7 @@ For more information, please visit: <https://ninjapiraterobotalien.com>
 
 -------------------
 
-# UPDATE November 7th, 2022: Development is currently on 'prototypes' branch. Any issues or pull requests are to be from that branch. *-CB*
+# UPDATE November 7th, 2022: For cliche game off / Bad to the Bone, Development is currently on 'prototypes' branch. Any issues or pull requests are to be from that branch. *-CB*
 
 ## Itch.IO November 2022 Game Jam - "Clichés" <https://itch.io/jam/game-off-2022>
 
