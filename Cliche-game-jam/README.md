@@ -10,6 +10,9 @@ The Working Title for this project is: ***BAD TO THE BONE***
 
 *********
 ## Dev-Log
+* **11-24-2022** Will be uploading prototype -- *also the entire submission(due to lack of time to work on this due to day job)* -- at the end of this weekend. It's been a fun ride learning Godot game engine nights and mornings and am looking forward to updating the repo with some arted prototypes.
+
+I just made the word *arted*. Fits. *-CB*
 * **11-09-2022**
 > Not sure why, but yesterday I decided I wanted to mess around with my debian partition, to create some network drives. Well, that didn't work out as simple as I thought and I ended up having to wipe it. Did a clean Fedora wipe and am now production-ready.
 >> Working till late tonight! Hope to have something soon! I can already see that this isn't going to have much gameplay by the end of the month!!! >:-{
